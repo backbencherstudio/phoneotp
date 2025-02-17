@@ -1,3 +1,4 @@
+import 'package:albertyg/firebase_options.dart';
 import 'package:albertyg/model_view/otp_screen_provider.dart';
 import 'package:albertyg/utils/route_name.dart';
 import 'package:albertyg/view/loginScreen/login_screen.dart';
@@ -22,7 +23,9 @@ void main() async {
   // Ensure ScreenUtil is ready
   await ScreenUtil.ensureScreenSize();
 
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform
+  );
 
   // Set the Firebase language code here
   // FirebaseAuth.instance.setLanguageCode('bn'); // or any other language code you need

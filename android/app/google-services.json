@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183897719697",
+    "project_id": "newproject-5519f",
+    "storage_bucket": "newproject-5519f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183897719697:android:f5b9d6d8de54c9d4d8d030",
+        "android_client_info": {
+          "package_name": "com.example.albertyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwPs-W1tOdBsCasLyNeKbHYY3uCf4rcJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
