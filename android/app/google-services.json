@@ -7,15 +7,15 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:183897719697:android:f5b9d6d8de54c9d4d8d030",
+        "mobilesdk_app_id": "1:183897719697:android:489eceae107c726bd8d030",
         "android_client_info": {
-          "package_name": "com.example.albertyg"
+          "package_name": "com.example.albertotp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCwPs-W1tOdBsCasLyNeKbHYY3uCf4rcJg"
+          "current_key": "AIzaSyC6ZQmhgpM0VJ4BEPL4ecjm4YlDpSilMJc"
         }
       ],
       "services": {
